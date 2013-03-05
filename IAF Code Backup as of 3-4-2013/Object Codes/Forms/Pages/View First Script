@@ -1,0 +1,30 @@
+<style>
+#loading_image {
+	background:#FFF;
+	position: fixed; z-index: 3000000;
+	height:100%;
+	width:100%;
+	top: 0;	left:0; right:0; bottom:0;
+}
+#load {
+position: relative;
+top: 45%;
+left: auto;
+}
+#rbi_L_successfully_filed, #rbi_L_duplicate_entry_,#rbi_L_tin_is_invalid_offline,#rbi_L_connection_error_ {
+display:none;
+}
+</style>
+
+<link href="{!#HOSTED_FILE.94678118}" rel='stylesheet' type='text/css' />
+<!-- <script language='JavaScript' src='{!#HOSTED_FILE.94679417}'></script> --> <!--jqu-->
+<script language='JavaScript' src='{!#HOSTED_FILE.94678872}'></script>
+<script language='JavaScript' src='{!#HOSTED_FILE.94679462}'></script>
+<script language='JavaScript' src='{!#HOSTED_FILE.95410868}'></script><!--string_util-->
+<script language='JavaScript' src='{!#HOSTED_FILE.94679624}'></script><!--aes-->
+<script language='JavaScript' src='{!#HOSTED_FILE.94679630}'></script><!--blo-->
+<script language='JavaScript' src='{!#HOSTED_FILE.94679623}'></script><!--rij-->
+
+<div id="loading_image" align="center">
+<img src='{!#HOSTED_FILE.94680821}' border='0' align='absmiddle' id='load'/>
+</div>

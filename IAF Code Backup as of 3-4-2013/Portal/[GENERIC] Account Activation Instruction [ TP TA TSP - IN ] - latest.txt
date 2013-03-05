@@ -1,0 +1,52 @@
+<style>
+#rbi_S_98679627{
+	padding-top: 40px;
+	margin-left: 50px;
+	margin-right: 50px;
+}
+
+#instructions{
+	padding:40px;
+	margin: 50px;
+	background-color: #E8E8E8;
+	line-height:2em;
+	margin-top: 10px;
+}
+.header{ font-weight:bold; }
+.indent1{ text-indent:30px }
+.indent2{ text-indent:60px }
+</style>
+
+<div id="instructions">
+
+	<div class="header">Instructions:</div>
+	
+	<div>�</div>
+	
+	<div>Taxpayer/ Tax Agent/ Tax Software Provider (Individual) </div>
+	<div class="indent1">Print the e-mail enrollment notification. </div>
+	<div class="indent1">Go to your Revenue District Office (RDO). </div>
+	<div class="indent1">Present 2 Valid ID's and the printed e-mail notification. </div>
+	<div class="indent1">For authorized representative </div>
+	<div class="indent2">Authorization Letter </div>
+	<div class="indent2">valid IDs of principal </div>
+	<div class="indent2">valid IDs of representative </div>
+	<div class="indent1"> Enrolling for TA: </div>
+        <div class="indent2"> Copy of certificate of accreditation </div>
+        <div class="indent2"> Tax Agent Authorization Letter </div>
+	
+	<div>�</div>
+	
+	<div class="header">Reminders:</div> 
+
+	<div>�</div>
+	
+	<div> 1. Individual and corporate taxpayers shall be allowed to enroll up to a maximum of three (3) user accounts for a particular TIN. </div>
+	<div> 2. For juridical entities or artificial persons, enrollment shall be made by the officers required by law to file the returns. Thus, for domestic corporations, it shall either be the President, Vice President or other principal officers; for partnerships, the managing partner; for joint ventures, the managing head; and for resident foreign corporation, the head country manager. </div>
+	<div> 3. The principal officer may delegate enrollment and filing of returns, however, an authorization must be issued by the principal officers delegating enrollment and filing to particular/identified company personnel. </div> 
+	<div>�</div>
+	
+	<div class="header" align="center"><a href="{!#PORTAL.90605109.91923869#url}">Go to Homepage</a></div>
+	
+	<div>�</div>
+</div>

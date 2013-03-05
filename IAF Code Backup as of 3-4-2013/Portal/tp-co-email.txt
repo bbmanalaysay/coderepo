@@ -1,0 +1,17 @@
+<style>
+#instructions {
+margin: 50px;
+padding-left: 40px;
+background-color: #E8E8E8;
+line-height: 2em;
+margin-top: 10px;
+padding-top: 10px;
+}
+.indent{ text-indent:30px }
+.indent2{ text-indent:60px }
+.header{ font-weight:bold; }
+ul {
+list-style: none;
+}
+</style>
+

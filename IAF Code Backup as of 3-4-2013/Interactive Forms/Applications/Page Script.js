@@ -1,0 +1,1 @@
+<div class='headerText'>{!#CURR_USER.locationId#value} Applications List</div>

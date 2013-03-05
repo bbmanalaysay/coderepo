@@ -1,0 +1,16 @@
+<p>{!createdAt#value}</p>
+<p>This e-mail acknowledges that&nbsp;{!applicant_s_name} has applied as a&nbsp;{!user_classification#value}.</p>
+<div><strong>Application Number:</strong>&nbsp;{!application_number}</div>
+<div><strong>TIN:</strong>&nbsp;{!tax_identification_n}</div>
+<div>&nbsp;</div>
+<div><strong>Instructions:</strong></div>
+<div>1.&nbsp;&nbsp;&nbsp;&nbsp;Taxpayer/Tax Agent&nbsp;Corporate/GPP<br />1.1.&nbsp;&nbsp;&nbsp;&nbsp;Print the e-mail enrollment notification.<br />1.2.&nbsp;&nbsp;&nbsp;&nbsp;Go to your Revenue District Office (RDO).<br />1.3.&nbsp;&nbsp;&nbsp;&nbsp;Present 2 Valid ID&rsquo;s and the printed e-mail notification.</div>
+<div>1.4.&nbsp;&nbsp;&nbsp;&nbsp;Letter of Intent<br />1.5.&nbsp;&nbsp;&nbsp;&nbsp;For authorized representative, present the following:<br />1.5.1.&nbsp;&nbsp;&nbsp;&nbsp; Authorization Letter<br />1.5.3.&nbsp;&nbsp;&nbsp;&nbsp; 2 valid IDs of representative</div>
+<div>1.6 &nbsp; &nbsp; Enrolling for TA:</div>
+<div>1.6.1 &nbsp;Copy of certificate of accreditation</div>
+<div>1.6.2 &nbsp;Tax Agent Authorization Letter</div>
+<div>&nbsp;</div>
+<div><strong>Reminders:</strong><br />1. Individual and corporate taxpayers shall be allowed to enroll up to a maximum of three (3) user accounts for a particular TIN.<br />2. For juridical entities or artificial persons, enrollment shall be made by the officers required by law to file the returns. Thus, for domestic corporations, it shall either be the President, Vice President or other principal officers; for partnerships, the managing partner; for joint ventures, the managing head; and for resident foreign corporation, the head country manager. <br />3. The principal officer may delegate enrollment and filing of returns, however, an authorization must be issued by the principal officers delegating enrollment and filing to particular/identified company personnel.</div>
+<div>&nbsp;</div>
+<div>Regards,</div>
+<div>BIR Administrator</div>
